@@ -6,7 +6,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://i.gifer.com/7yE.gif" width="380" height="320" />
+<img align="right" alt="GIF" src="https://github.com/okunevkirill/okunevkirill/blob/main/img/cheshire_cat.gif?raw=true" width="380" height="320" />
 
 **Back-end**
 
