@@ -18,10 +18,10 @@
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&color=lightyellow)
+![MySQL](https://img.shields.io/badge/-MySQL-azure?style=flat-square&logo=MySQL)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-lightcyan?style=flat-square&logo=SQLite&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-snow?style=flat-square&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=MongoDB)
 
 **Front-end**
 
@@ -37,8 +37,8 @@
 
 **OS**
 
-![Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=Linux)
-![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=Windows)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux)
+![Windows](https://img.shields.io/badge/Windows-grey?style=flat-square&logo=Windows)
 
 **Tools**
 
