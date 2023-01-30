@@ -35,10 +35,6 @@
 ![DjangoORM](https://img.shields.io/badge/-DjangoORM-0aad48?style=flat-square&logo=Django)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-dodgerblue?style=flat-square&logo=SqlAlchemy)
 
-**OS**
-
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=Linux)
-![Windows](https://img.shields.io/badge/Windows-grey?style=flat-square&logo=Windows)
 
 **Tools**
 
@@ -55,7 +51,6 @@
 
 ## Contacts
 
-📞 +7-927-207-59-12  
 <a href="https://t.me/okunev_kirill" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
