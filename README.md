@@ -1,8 +1,5 @@
 ### Hi 👋 I'm a Backend developer
 
-<a href="https://www.codewars.com/users/ok_kir">
-	<img alt="Codewars" src="https://www.codewars.com/users/ok_kir/badges/large"/>
-</a>
 
 ## Technology stack
 
